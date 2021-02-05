@@ -1,0 +1,48 @@
+h1{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    height: 70px;
+    }
+    
+    ul {
+        list-style-type: none;
+    }
+      
+      div li {
+        background-color: skyblue;
+        float: left;
+        text-align: center;
+        width: 5em;
+        border: black 3px solid;
+    }
+    
+
+     
+
+
+section ul {
+        list-style-type: katakana;
+      }
+
+section li{
+
+background-color: sandybrown;
+width: 770px;
+
+
+
+}
+div.fin{
+    text-align: center;
+    background-color: salmon;
+    width: 770px;
+    height: 80px;
+    
+    
+    }
+      hr{
+    
+        height: 10px;
+      }
+    
